@@ -1,0 +1,41 @@
+
+body{padding:10px;
+    background-image: url("images/pinkgold.jpg"); background-repeat: no-repeat;
+background-size: cover; }
+
+
+h1{background-color: rgb(252, 247, 217) ;text-align: 
+    center;color: rgb(0, 0, 0); 
+    border-top:3px solid rgb(116, 114, 111);
+    border-right:3px solid rgb(116, 114, 111) ;
+    border-left:3px solid rgb(116, 114, 111);
+    border-bottom:3px solid rgb(116, 114, 111);
+    border-radius:5px ; filter:opacity(70%);
+    }
+
+p{font-size: 1.2em; background-color: rgb(252, 247, 217);
+
+filter:opacity(70%);
+}
+
+button{background-color: rgb(255, 246, 192);text-align: center;
+    color:rgb(0, 0, 0); border-radius: 25px 15px 25px 15px; 
+    border-color: rgb(116, 114, 111);
+    font-size: 1em; margin: 20px; padding: 5px;
+    border:2px solid rgb(116, 114, 111); filter:opacity(70%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{text-align: center; float:left;}
